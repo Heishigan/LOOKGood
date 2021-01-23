@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900068105288",
+    "project_id": "lookgood-ecdfd",
+    "storage_bucket": "lookgood-ecdfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900068105288:android:686d5fdaac0a9c062f0c7d",
+        "android_client_info": {
+          "package_name": "com.example.lookgood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900068105288-7n4nqklggpt7bchhmaanqu59ce0ecan1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmmSQQ_Igm4JP4SmaMjLasWSphicgHqEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900068105288-7n4nqklggpt7bchhmaanqu59ce0ecan1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
